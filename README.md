@@ -1,4 +1,4 @@
-Windows: 
+Windows: https://www.virustotal.com/#/file-analysis/Zjg1YjJiNjBjYjlhZTU4NmE1NTAzMzliZDFiMWFiZTE6MTUxOTI0MzQ2Mg==
 
 Linux: https://www.virustotal.com/#/file-analysis/N2Y5NTJjZDcwNTFhNjcwZTE1OWQ5MDQxODExMjg2MDM6MTUxOTIzOTAzNQ==
 
