@@ -2,4 +2,4 @@ Windows: https://www.virustotal.com/#/file-analysis/Zjg1YjJiNjBjYjlhZTU4NmE1NTAz
 
 Linux: https://www.virustotal.com/#/file-analysis/N2Y5NTJjZDcwNTFhNjcwZTE1OWQ5MDQxODExMjg2MDM6MTUxOTIzOTAzNQ==
 
-macOS: https://www.virustotal.com/#/file/e700ef70163e190c89c3b81f7d0c48cbe87aed8527453595f3e27e978035de9e/detection
+macOS: https://www.virustotal.com/#/file/ec00b7b6584b3d80544cc6571680d9b4cd87ad5102430bbf1b4def44517ab039/detection
